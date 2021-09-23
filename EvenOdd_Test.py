@@ -4,3 +4,4 @@ for i in N:
         print('Even')    
     else:         
         print('Odd ')
+print('modified')
