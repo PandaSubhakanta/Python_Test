@@ -5,3 +5,5 @@ for i in N:
     else:         
         print('Odd ')
 print('modified')
+
+print(" second Modification")
